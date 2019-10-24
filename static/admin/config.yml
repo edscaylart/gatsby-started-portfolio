@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: edscaylart/personal-website
+  repo: yourgithubuser/yourrepo
   branch: master
-  site_domain: https://edsonsouza.netlify.com/
+  site_domain: https://yourdomain.com
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"
